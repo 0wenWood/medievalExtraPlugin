@@ -1,0 +1,6 @@
+name: medievalExtraPlugin
+version: 1.0
+author: DaTreeBros
+main: com.DaTreeBros.medievalExtraPlugin.medievalExtraPlugin
+api-version: 1.14
+
